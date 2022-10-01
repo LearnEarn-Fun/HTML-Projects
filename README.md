@@ -14,8 +14,9 @@ This repository contains HTML Projects for you to learn & practice<br>
  <li><a href="https://github.com/LearnEarn-Fun/HTML-Projects/tree/main/Starter%20Shopping%20Cart%20Website">Starter Shopping Cart Website</a></li>
  <li><a href="https://github.com/LearnEarn-Fun/HTML-Projects/tree/main/Survey%20Form">Survey Form</a></li>
  <li><a href="https://github.com/LearnEarn-Fun/HTML-Projects/tree/main/Tribute%20Page">Tribute Page</a></li>
+ <li><a href="https://github.com/LearnEarn-Fun/HTML-Projects/tree/main/Drum%20Kit%20Starting%20Files">Drum Kit (DOM Manipulation)</a></li>
 </ol>
 
 ---
 
-© 2021, Learn Earn & Fun, Inc.
+© 2022, Learn Earn & Fun, Inc.
